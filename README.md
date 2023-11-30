@@ -69,7 +69,7 @@ Essa trata-se de uma versão simplifica do projeto por conta de limitações de 
 ## ⚙️ Configuração e execução
 
 #### Acesso ao Tinkercard:
-- [Link para o Projeto](https://www.tinkercad.com/things/jHI4InoDjWK-global-solution-edge-computing-and-computer-systems-20232?sharecode=O05syKseQvdTsvK07henlzyK9hOBdwnQZyQfaquQSi4)
+- [Link para o Projeto]([https://www.tinkercad.com/things/jHI4InoDjWK-global-solution-edge-computing-and-computer-systems-20232?sharecode=O05syKseQvdTsvK07henlzyK9hOBdwnQZyQfaquQSi4](https://www.tinkercad.com/things/hos0b9wgmZh-global-solution-edge-computing-and-computer-systems-20232?sharecode=oz73z-uILemk9dt-PtvVSgkts3tkVyKIeZIEH7BPf2E))
 
 #### Carregar dados de dosagem:
 - Sem a conexão com Python, as informações de dosagem precisam ser colocadas diretamente nas variaveis: proximoHorario, intervaloMedicacao e medicamentosDisponiveis
